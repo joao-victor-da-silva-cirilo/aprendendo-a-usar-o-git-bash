@@ -3,9 +3,13 @@
 ## Sumário
 
 1 - [Sobre](#sobre)
+
 1 - [Instalando o Git Localmente](#instalando)
+  
   1 - [Baixar](#instalando-1)
+  
   1 - [Instalar](#instalando-2)
+  
   1 - [Configurar](#instalando-3)
 
 ## Sobre <a id="sobre"></a>
