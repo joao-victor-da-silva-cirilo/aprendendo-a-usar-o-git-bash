@@ -33,7 +33,7 @@
 
 ### 2. Instalar
 
- Após baixar, abra o instalador e conceda as permissões de administrador caso precise.
+Após baixar, abra o instalador e conceda as permissões de administrador caso precise. Logo em seguida faça a instalação padrão clicando em algo como "próximo", "próximo"... e "concluir".
 
 <a id="configurar"></a>
 
