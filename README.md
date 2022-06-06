@@ -1,6 +1,6 @@
 # Estudando o Git Bash
 
-[Portuguese-BR readme](#pt-br)
+[Português brasileiro README](#pt-br)
 
 <a id="pt-br"></a>
 
