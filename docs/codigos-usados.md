@@ -12,6 +12,8 @@
 
 `git merge <branch>` - Junta os códigos de diferentes _branches_. Primeiramente você precisarar ir na _branch_ principal, efetuar o `git pull` para receber atualzação da branch na nuvem, logo em seguida usar o `git merge`.
 
+`git remote add origin "<url>"` - Repositório em nuvem onde serão mandado as alterações
+
 `git push` - envia o _commit_ para a nuvem
 
 `git status` - Mostra o status dos arquivos
