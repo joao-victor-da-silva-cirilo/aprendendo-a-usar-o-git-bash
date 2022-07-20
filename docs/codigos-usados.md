@@ -24,6 +24,6 @@
 
 `git checkout <branch>` - Altera a _branch_ que está sendo trabalhada localmente
 
-`git checkout -b <brench nova> <brench baseada>` - Esse comando serve para criar uma branch com em outra com uma linha de código
+`git checkout -b <branch nova> <branch baseada>` - Esse comando serve para criar uma branch com em outra com uma linha de código
 
 `git push --set-upstream origin <branch>` - Selecionar a branch onde se vai fazer o push
